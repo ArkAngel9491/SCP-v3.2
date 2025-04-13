@@ -47,6 +47,8 @@ SCP v3.2 isn’t a revolution—it’s a system to rebuild trust, reward effort,
 - **Lean Plan**: Scalable to $200M for 50K people
 - **Open Challenge**: Fork to refine costs
 
+- ![SCP v3.2 Pilot Budget](SCP_v3.2_Pilot_Budget_Pie.png)
+
 ## Contribution Tracks
 - **Full-time**: 12-17 years of labor/learning
 - **Part-time**: Caregivers, students, elders
@@ -78,7 +80,7 @@ SCP v3.2 isn’t a revolution—it’s a system to rebuild trust, reward effort,
   - Automation: Routine audits via AI
   - Backups: 50% surplus panelists
 - **Open Challenge**: Build mock placement algorithms or audit tools
-
+![SCP AI Accountability Flow](SCP_AI_Accountability_Flow.png)
 ## Elite Management
 - **Wealth Conversion**: Legacy projects (e.g., named schools)
 - **Hard Wealth Caps**: Transparent ceiling, seizure for saboteurs
